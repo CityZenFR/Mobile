@@ -3,7 +3,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Setup with website](#setup-using-ionic-gui-website)
+* [Setup with CLI](#setup-using-cli)
 
 ## General info
 This repository is the opensourced application part of the CityZen project
